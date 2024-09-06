@@ -1,4 +1,4 @@
-#include <sys/time.h> 
+#include "time.h"
 #include "esp_sntp.h"
 #include "def_sntp.h"
 #include "project_config.h"

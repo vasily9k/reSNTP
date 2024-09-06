@@ -1,6 +1,6 @@
 {
   "name": "reSNTP",
-  "version": "1.2.0",
+  "version": "1.2.1",
   "description": "Launcher for automatic time synchronization with SNTP servers",
   "keywords": "sntp",
   "authors":
